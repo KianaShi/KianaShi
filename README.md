@@ -1,11 +1,15 @@
-<h1 align="center">Hi, I'm Kiana Shi 👋</h1>
-
-<h3 align="center">
-Applied AI • Data Engineering • Python Backend
-</h3>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=900&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Kiana+Shi+%F0%9F%91%8B"
+    alt="Typing introduction"
+  />
+</p>
 
 <p align="center">
-Building practical AI systems with RAG, agents, data pipelines, and backend engineering.
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=900&center=true&vCenter=true&width=800&lines=Applied+AI+%E2%80%A2+Data+Engineering+%E2%80%A2+Python+Backend"
+    alt="Typing roles"
+  />
 </p>
 
 <p align="center">
