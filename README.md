@@ -1,16 +1,82 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Kiana Shi 👋</h1>
 
-<!--
-**KianaShi/KianaShi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Applied AI • Data Engineering • Python Backend
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Building practical AI systems with RAG, agents, data pipelines, and backend engineering.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Developer-blue" />
+  <img src="https://img.shields.io/badge/Focus-Applied_AI-purple" />
+  <img src="https://img.shields.io/badge/Location-Seattle-green" />
+  <img src="https://img.shields.io/badge/Open_to-2027_New_Grad-orange" />
+</p>
+
+## 🧰 Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
+
+### AI & Data
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector_DB-purple)
+![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-Embeddings-blue)
+
+### Backend & Cloud
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+
+## 🚀 Featured Projects
+
+### 🎭 Shakespeare RAG
+
+Structure-aware question-answering system built with:
+
+- Shakespeare HTML parsing
+- Context-aware dialogue chunking
+- Sentence Transformer embeddings
+- ChromaDB retrieval
+- Retrieval evaluation and planned reranking
+
+[View Repository](https://github.com/KianaShi/rag-chatbot)
+
+---
+
+### 💳 Fraud Detection
+
+Machine-learning pipeline for identifying fraudulent transactions using:
+
+- Logistic Regression
+- Decision Trees
+- Random Forest
+- Threshold tuning
+- ROC-AUC and recall analysis
+
+[View Repository](https://github.com/KianaShi/fraud-risk-analysis)
+
+---
+
+### 🐾 Pet Shop Data Platform
+
+Multi-database application using:
+
+- MySQL
+- MongoDB
+- Neo4j
+- Python
+- Relational and NoSQL data modeling
+
+[View Repository](https://github.com/KianaShi/pet-shop-database-system)
