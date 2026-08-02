@@ -43,6 +43,15 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 
+## 📈 Recent Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=KianaShi&theme=tokyo-night&hide_border=true&area=true"
+    alt="Kiana's GitHub activity graph"
+  />
+</p>
+
 ## 🚀 Featured Projects
 
 ### 🎭 Shakespeare RAG
