@@ -57,8 +57,6 @@ Structure-aware question-answering system built with:
 
 [View Repository](https://github.com/KianaShi/rag-chatbot)
 
----
-
 ### 💳 Fraud Detection
 
 Machine-learning pipeline for identifying fraudulent transactions using:
@@ -70,8 +68,6 @@ Machine-learning pipeline for identifying fraudulent transactions using:
 - ROC-AUC and recall analysis
 
 [View Repository](https://github.com/KianaShi/fraud-risk-analysis)
-
----
 
 ### 🐾 Pet Shop Data Platform
 
