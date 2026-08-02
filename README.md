@@ -54,67 +54,44 @@
 
 ## 🚀 Featured Projects
 
-### 🎭 Shakespeare RAG
-
 <h3 align="center">
 🎭 Shakespeare RAG
-&nbsp;&nbsp;
-<a href="https://github.com/KianaShi/shakespeare-rag">🔗 Repository</a>
+&nbsp;
+<a href="https://github.com/KianaShi/shakespeare-rag">🔗</a>
 </h3>
 
 <p align="center">
-Structure-aware question-answering system built with
+Structure-aware Retrieval-Augmented Generation
 </p>
 
 <p align="center">
-
-• Shakespeare HTML parsing<br>
-• Context-aware dialogue chunking<br>
-• Sentence Transformer embeddings<br>
-• ChromaDB retrieval<br>
-• Retrieval evaluation and planned reranking
-
+Python • ChromaDB • Sentence Transformers • Dialogue Chunking • Retrieval Evaluation
 </p>
-
-### 💳 Fraud Detection
 
 <h3 align="center">
 💳 Fraud Detection
-&nbsp;&nbsp;
-<a href="https://github.com/KianaShi/fraud-detection">🔗 Repository</a>
+&nbsp;
+<a href="https://github.com/KianaShi/fraud-detection">🔗</a>
 </h3>
 
 <p align="center">
-Machine-learning pipeline for identifying fraudulent transactions
+Machine Learning Fraud Detection Pipeline
 </p>
 
 <p align="center">
-
-• Logistic Regression<br>
-• Decision Trees<br>
-• Random Forest<br>
-• Threshold tuning<br>
-• ROC-AUC analysis
-
+Python • Scikit-learn • Logistic Regression • Random Forest • ROC-AUC
 </p>
-
-### 🐾 Pet Shop Data Platform
 
 <h3 align="center">
 🐾 Pet Shop Data Platform
-&nbsp;&nbsp;
-<a href="https://github.com/KianaShi/pet-shop">🔗 Repository</a>
+&nbsp;
+<a href="https://github.com/KianaShi/pet-shop-database">🔗</a>
 </h3>
 
 <p align="center">
-Multi-database application for pet store management
+Multi-Database Backend Application
 </p>
 
 <p align="center">
-
-• MySQL<br>
-• MongoDB<br>
-• Neo4j<br>
-• Python Backend
-
+Python • MySQL • MongoDB • Neo4j • Database Design
 </p>
