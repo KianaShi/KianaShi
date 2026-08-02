@@ -47,7 +47,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=KianaShi&theme=tokyo-night&hide_border=true&area=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=KianaShi&bg_color=00000000&color=8250DF&line=8250DF&point=BF91F3&area=true&hide_border=true"
     alt="Kiana's GitHub activity graph"
   />
 </p>
