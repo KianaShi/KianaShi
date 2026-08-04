@@ -63,7 +63,7 @@ Structure-aware Retrieval-Augmented Generation system for searching and answerin
 
 ---
 
-### 💳 Fraud Risk Analysis
+### 💳 [Fraud Risk Analysis](https://github.com/KianaShi/fraud-risk-analysis)
 
 End-to-end machine learning project for identifying potentially fraudulent applications and supporting risk-based approval decisions.
 
@@ -76,7 +76,19 @@ End-to-end machine learning project for identifying potentially fraudulent appli
 
 ---
 
-### 🐾 [Pet Shop Data Platform](https://github.com/KianaShi/pet-shop-database)
+### 📊  [U.S. Poverty Dashboard](https://github.com/KianaShi/Poverty_Dashboard) · [Live Demo](https://poverty-dashboard-shi-yang.streamlit.app/)
+
+Interactive data visualization dashboard for exploring geographic and socioeconomic patterns in poverty across U.S. counties.
+
+- Analyzed **2015 and 2017 American Community Survey data** to examine relationships between occupational structure and county-level poverty
+- Built an interactive **Streamlit dashboard** with geographic maps, dynamic filters, and comparative visualizations
+- Visualized regional poverty, occupation patterns, household conditions, and child poverty using **Plotly and GeoPandas**
+
+`Python` · `Streamlit` · `Pandas` · `Plotly` · `GeoPandas`
+
+---
+
+### 🐾 [Pet Shop Data Platform](https://github.com/KianaShi/pet-shop-database-system)
 
 Multi-database data management system designed for pet shop operations and analytical reporting.
 
