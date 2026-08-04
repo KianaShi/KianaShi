@@ -72,10 +72,10 @@ Structure-aware Retrieval-Augmented Generation system for searching and answerin
 
 End-to-end machine learning project for identifying potentially fraudulent applications and supporting risk-based approval decisions.
 
-- Analyzed identity, device, location, email, and temporal features across **2,775 application records**
-- Built a leakage-safe preprocessing and modeling pipeline using **Logistic Regression, Decision Tree, and Random Forest**
-- Selected the final model using cross-validated **PR-AUC**, achieving **0.945 ROC-AUC**, **94.6% precision**, and **84.3% recall**
-- Converted predicted fraud probabilities into **approve, decline, and manual-review** decisions through threshold and cost-benefit analysis
+- Analyzed identity, device, location, email, and temporal features across 2,775 application records
+- Built a leakage-safe preprocessing and modeling pipeline using Logistic Regression, Decision Tree, and Random Forest
+- Selected the final model using cross-validated PR-AUC, achieving 0.945 ROC-AUC, 94.6% precision, and 84.3% recall
+- Converted predicted fraud probabilities into approve, decline, and manual-review decisions through threshold and cost-benefit analysis
 
 `Python` · `Scikit-learn` · `Pandas` · `Classification` · `PR-AUC`
 
@@ -85,9 +85,9 @@ End-to-end machine learning project for identifying potentially fraudulent appli
 
 Interactive data visualization dashboard for exploring geographic and socioeconomic patterns in poverty across U.S. counties.
 
-- Analyzed **2015 and 2017 American Community Survey data** to examine relationships between occupational structure and county-level poverty
-- Built an interactive **Streamlit dashboard** with geographic maps, dynamic filters, and comparative visualizations
-- Visualized regional poverty, occupation patterns, household conditions, and child poverty using **Plotly and GeoPandas**
+- Analyzed 2015 and 2017 American Community Survey data to examine relationships between occupational structure and county-level poverty
+- Built an interactive Streamlit dashboard with geographic maps, dynamic filters, and comparative visualizations
+- Visualized regional poverty, occupation patterns, household conditions, and child poverty using Plotly and GeoPandas
 
 `Python` · `Streamlit` · `Pandas` · `Plotly` · `GeoPandas`
 
