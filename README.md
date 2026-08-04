@@ -63,15 +63,16 @@ Structure-aware Retrieval-Augmented Generation system for searching and answerin
 
 ---
 
-### 💳 [Fraud Detection](https://github.com/KianaShi/fraud-detection)
+### 💳 Fraud Risk Analysis
 
-End-to-end machine learning pipeline for identifying potentially fraudulent financial transactions.
+End-to-end machine learning project for identifying potentially fraudulent applications and supporting risk-based approval decisions.
 
-- Processed transaction data and performed exploratory analysis of fraud patterns
-- Trained and evaluated Logistic Regression, Decision Tree, and Random Forest models
-- Compared classification thresholds using precision, recall, ROC-AUC, and confusion matrices
+- Analyzed identity, device, location, email, and temporal features across **2,775 application records**
+- Built a leakage-safe preprocessing and modeling pipeline using **Logistic Regression, Decision Tree, and Random Forest**
+- Selected the final model using cross-validated **PR-AUC**, achieving **0.945 ROC-AUC**, **94.6% precision**, and **84.3% recall**
+- Converted predicted fraud probabilities into **approve, decline, and manual-review** decisions through threshold and cost-benefit analysis
 
-`Python` · `Scikit-learn` · `Pandas` · `Random Forest` · `ROC-AUC`
+`Python` · `Scikit-learn` · `Pandas` · `Classification` · `PR-AUC`
 
 ---
 
