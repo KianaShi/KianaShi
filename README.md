@@ -56,7 +56,7 @@
 
 ## 📦 Featured projects
 
-### 🎭 [Shakespeare RAG](https://github.com/KianaShi/shakespeare-rag)
+### 🔧 [Software Version Migration Assistant](https://github.com/KianaShi/AI-Software_Version_Migration_Assistant)
 
 Structure-aware Retrieval-Augmented Generation system for searching and answering questions about Shakespeare's works.
 
